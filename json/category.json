@@ -1,0 +1,365 @@
+{
+    "ladys": {
+        "title": "レディスファッション",
+        "url": "https: //affiliate.rakuten.co.jp/search/?g=100371&gl=2&v=2&l-id=affiliate_PC_top_g%3D100371&s=1",
+        "childNodes": [
+            {
+                "title": "トップス",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=555086",
+                "childNodes": [
+                    {
+                        "title": "Tシャツ・カットソー",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=303656"
+                    },
+                    {
+                        "title": "シャツ・ブラウス",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=206471"
+                    },
+                    {
+                        "title": "ニット・セーター",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=206488"
+                    },
+                    {
+                        "title": "その他",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=112719"
+                    },
+                    {
+                        "title": "カーディガン・ボレロ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=403871"
+                    },
+                    {
+                        "title": "パーカー",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=502556"
+                    },
+                    {
+                        "title": "タンクトップ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=566018"
+                    },
+                    {
+                        "title": "スウェット・トレーナー",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=403923"
+                    },
+                    {
+                        "title": "ベスト",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=403890"
+                    },
+                    {
+                        "title": "キャミソール",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=303662"
+                    },
+                    {
+                        "title": "ポロシャツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409352"
+                    },
+                    {
+                        "title": "アンサンブル",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=303699"
+                    },
+                    {
+                        "title": "ベアトップ・チューブトップ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=303655"
+                    }
+                ]
+            },
+            {
+                "title": "ボトムス",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=555089",
+                "childNodes": [
+                    {
+                        "title": "パンツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=206440"
+                    },
+                    {
+                        "title": "スカート",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=110734"
+                    },
+                    {
+                        "title": "キュロットスカート",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=303587"
+                    }
+                ]
+            },
+            {
+                "title": "和服",
+                "url": "https://affiliate.rakuten.co.jp/search?g=100428&gl=3&v=2&l-id=affiliate_PC_top_g%3D100371&s=1",
+                "childNodes": [
+                    {
+                        "title": "着物",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=206545"
+                    },
+                    {
+                        "title": "帯",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=206546"
+                    },
+                    {
+                        "title": "和装小物",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=110831"
+                    },
+                    {
+                        "title": "着物セット",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=110824"
+                    },
+                    {
+                        "title": "和装下着・足袋",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=566698"
+                    },
+                    {
+                        "title": "履物",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=206548"
+                    },
+                    {
+                        "title": "浴衣",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=206549"
+                    },
+                    {
+                        "title": "反物",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=409176"
+                    },
+                    {
+                        "title": "浴衣セット",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=206585"
+                    },
+                    {
+                        "title": "部屋着",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=206547"
+                    },
+                    {
+                        "title": "花嫁着物セット",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=567438"
+                    },
+                    {
+                        "title": "花嫁着物",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=567437"
+                    },
+                    {
+                        "title": "八掛",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=1&g=567225"
+                    }
+                ]
+            },
+            {
+                "title": "コート・ジャケット",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=555087",
+                "childNodes": []
+            },
+            {
+                "title": "ワンピース",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=110729",
+                "childNodes": []
+            },
+            {
+                "title": "その他",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=101801",
+                "childNodes": []
+            },
+            {
+                "title": "ドレス",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=555084",
+                "childNodes": []
+            },
+            {
+                "title": "水着",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=409365",
+                "childNodes": []
+            },
+            {
+                "title": "スーツ・セットアップ",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=555091",
+                "childNodes": [
+                    {
+                        "title": "ワンピーススーツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409120"
+                    },
+                    {
+                        "title": "スカートスーツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409073"
+                    },
+                    {
+                        "title": "パンツスーツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=110724"
+                    },
+                    {
+                        "title": "3・4点セット",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409096"
+                    },
+                    {
+                        "title": "トップスのみ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=566020"
+                    },
+                    {
+                        "title": "ボトムスのみ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=566021"
+                    }
+                ]
+            },
+            {
+                "title": "作業服",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=210800",
+                "childNodes": []
+            },
+            {
+                "title": "チュニック",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=553029",
+                "childNodes": []
+            },
+            {
+                "title": "白衣",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=509252",
+                "childNodes": [
+                    {
+                        "title": "ジャケット",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=509253"
+                    },
+                    {
+                        "title": "その他",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=509256"
+                    },
+                    {
+                        "title": "パンツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=509254"
+                    },
+                    {
+                        "title": "ドクターコート",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=303740"
+                    },
+                    {
+                        "title": "ワンピース",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=509255"
+                    }
+                ]
+            },
+            {
+                "title": "ユニセックスウエア",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=200074",
+                "childNodes": [
+                    {
+                        "title": "Tシャツ・カットソー",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=566023"
+                    },
+                    {
+                        "title": "スウェット・トレーナー",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=509303"
+                    },
+                    {
+                        "title": "その他",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=200081"
+                    },
+                    {
+                        "title": "シャツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409379"
+                    },
+                    {
+                        "title": "パーカー",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=509306"
+                    }
+                ]
+            },
+            {
+                "title": "オールインワン・サロペット",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=555083",
+                "childNodes": []
+            },
+            {
+                "title": "事務服",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=409165",
+                "childNodes": [
+                    {
+                        "title": "シャツ・ブラウス",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409169"
+                    },
+                    {
+                        "title": "ベスト",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409168"
+                    },
+                    {
+                        "title": "スカート",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409170"
+                    },
+                    {
+                        "title": "ジャケット",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409167"
+                    },
+                    {
+                        "title": "リボン・ネクタイ・スカーフ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409173"
+                    },
+                    {
+                        "title": "パンツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409172"
+                    },
+                    {
+                        "title": "その他",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=206522"
+                    },
+                    {
+                        "title": "セットアップ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409166"
+                    },
+                    {
+                        "title": "キュロット",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409171"
+                    }
+                ]
+            },
+            {
+                "title": "ウエディングドレス",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=564338",
+                "childNodes": []
+            },
+            {
+                "title": "レインウエア",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=553036",
+                "childNodes": [
+                    {
+                        "title": "レインコート",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=553037"
+                    },
+                    {
+                        "title": "レインスーツ",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=553038"
+                    },
+                    {
+                        "title": "その他",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409395"
+                    }
+                ]
+            },
+            {
+                "title": "学生服",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=303735",
+                "childNodes": [
+                    {
+                        "title": "その他",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=206521"
+                    },
+                    {
+                        "title": "セーラー服",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=303736"
+                    },
+                    {
+                        "title": "ネクタイ・リボン",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=409164"
+                    },
+                    {
+                        "title": "スカート",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=567458"
+                    },
+                    {
+                        "title": "ジャケット",
+                        "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&g=566022"
+                    }
+                ]
+            },
+            {
+                "title": "オーダーメイド",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=566016",
+                "childNodes": []
+            },
+            {
+                "title": "福袋",
+                "url": "https://affiliate.rakuten.co.jp/search?v=2&l-id=affiliate_PC_top_g%3D100371&s=3&g=403911",
+                "childNodes": []
+            }
+        ]
+    }
+}

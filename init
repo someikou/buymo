@@ -1,0 +1,3 @@
+npm install --save nightmare
+npm install --save cheerio
+npm install --save sqlite3
